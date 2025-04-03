@@ -15,4 +15,4 @@ These files are the donut charts showing the topic distributions for each datase
 
 Output
 
-In this repository, you’ll find the donut charts saved as HTML files. These charts represent the frequency distribution of topics across the datasets for different numbers of topics (5, 10, 20, and 50). The topics are displayed in descending order of their frequency
+In this repository, you’ll find the donut charts saved as HTML files. These charts represent the frequency distribution of topics across the datasets for different numbers of topics (5, 10, 20, and 50). The output for topics  displayed in descending order of their frequency is visible in the jupyter notebook itself under the code. 
