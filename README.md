@@ -7,10 +7,10 @@ For this project, I applied the Latent Dirichlet Allocation (LDA) algorithm to p
 
 Files in this Repository
 
-LDA_Topic_Modeling_Project.ipynb:
+LDA_Topic_Modeling_Project.ipynb :
 This is the Jupyter notebook that contains all the code for applying the LDA algorithm to the dataset. It also handles the preprocessing of the text data and generates the donut charts for visualization.
 
-HTML Files:
+HTML Files : 
 These files are the donut charts showing the topic distributions for each dataset and topic configuration (5, 10, and 20 topics). You can open these files in any browser to see the visualizations.
 
 Output
