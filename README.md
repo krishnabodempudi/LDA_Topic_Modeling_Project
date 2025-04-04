@@ -5,7 +5,7 @@ Overview
 
 For this project, I applied the Latent Dirichlet Allocation (LDA) algorithm to perform topic modeling on textual data. The main goal was to uncover the hidden topics within a collection of text data and then visualize those topics using donut charts. I worked with movie review datasets and applied the LDA model for different numbers of topics (5, 10, and 20). After running the LDA model, I used Plotly to create donut charts to visually represent the frequency distribution of these topics.
 
-Files in this Repository
+## Files in this Repository:
 
 LDA_Topic_Modeling_Project.ipynb :
 This is the Jupyter notebook that contains all the code for applying the LDA algorithm to the dataset. It also handles the preprocessing of the text data and generates the donut charts for visualization.
